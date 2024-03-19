@@ -26,7 +26,7 @@ Updated: 3/19
 [Using Apply in Pandas Lambda functions with multiple if statements.](https://www.geeksforgeeks.org/using-apply-in-pandas-lambda-functions-with-multiple-if-statements/)
 
 
-[Pandas Dataframe Apply.](pandas.DataFrame.apply)
+[Pandas Dataframe Apply.](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.apply.html#pandas.DataFrame.apply)
 
 
 [Python Pandas Convert valuecounts Output to Dataframe.](https://saturncloud.io/blog/python-pandas-convert-valuecounts-output-to-dataframe/)
